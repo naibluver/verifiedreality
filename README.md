@@ -1,2 +1,5 @@
-<img width="128" height="128" alt="17834311402363267005099633166606" src="https://github.com/user-attachments/assets/399be7c5-cfde-427d-8460-1d844686b7e8" />
-<![](https://komarev.com/ghpvc/?username=verifiedreality&style=for-the-badge&label=⭐&color=FF5421)>
+![](https://komarev.com/ghpvc/?username=verifiedreality&style=for-the-badge&label=⭐&color=FF5421)
+
+<img width="374" height="374" alt="17834314069538669334331166401092" src="https://github.com/user-attachments/assets/d8019eb5-b800-457b-ab53-42ced57165d7" />
+
+
